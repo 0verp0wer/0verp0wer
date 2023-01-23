@@ -6,7 +6,7 @@
 -🌱 I’m currently learning **C++**
  
 C͟o͟n͟t͟a͟c͟t͟
-- 📫 Contact me on discord: **꧁𝕆𝕧𝕖𝕣𝕡𝕠𝕨𝕖𝕣༄꧂#0303**
+- 📫 Contact me on discord: **꧁𝕆𝕧𝕖𝕣𝕡𝕠𝕨𝕖𝕣༄꧂#2524**
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
 - 🌱 Language: English/Italian
