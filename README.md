@@ -1,13 +1,24 @@
-<!-- https://github.com/otakumods/ -->
+<h1 align="center">ABOUT ME</h1>
 
-<h1 align="center">Hi 👋 I'm otakumods</h1>
-<h3 align="center">I'm a python developer from Italy</h3>
+```python
 
--🌱 I’m currently learning **C++**
- 
-C͟o͟n͟t͟a͟c͟t͟
-- 📫 Contact me on discord: **꧁𝕆𝕧𝕖𝕣𝕡𝕠𝕨𝕖𝕣༄꧂#2524**
+class Overpower:
 
-A͟b͟o͟u͟t͟ ͟m͟e͟
-- 🌱 Language: English/Italian
-- 👀 Interested in Python Deobfuscation
+    def contact():
+        discord = "over_on_top"
+        return discord
+    
+    def life():
+        age = 16
+        birthday = "10 november"
+        country = "Italy"
+        return age, birthday, country
+
+    def coding():
+        environment = ["vs", "vscode"]
+        langs = {
+            "expert": ["python"],
+            "learning": ["c++", "c#"]
+        }
+        return environment, langs
+```
