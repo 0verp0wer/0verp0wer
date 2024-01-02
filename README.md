@@ -1,8 +1,3 @@
-<p align="center">
-  <img height="25" src="https://img.shields.io/github/followers/otakumods?color=ef4dd4&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
-  <img height="25" src="https://img.shields.io/github/stars/otakumods?color=ef4dd4&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-</p>
-
 <h1 align="center">ABOUT ME</h1>
 
 ```python
@@ -27,3 +22,7 @@ class Overpower:
         }
         return environment, langs
 ```
+<p align="center">
+  <img height="25" src="https://img.shields.io/github/followers/otakumods?color=ef4dd4&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <img height="25" src="https://img.shields.io/github/stars/otakumods?color=ef4dd4&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
