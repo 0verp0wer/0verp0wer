@@ -12,7 +12,8 @@ class Overpower:
         age = 16
         birthday = "10 november"
         country = "Italy"
-        return age, birthday, country
+        hobbies = ["programming", "anime", "chess"]
+        return age, birthday, country, hobbies
 
     def coding():
         environment = ["vs", "vscode"]
