@@ -1,29 +1,35 @@
+![Header](./header.png)
+
 <h1 align="center">ABOUT ME</h1>
 
 ```python
 
 class Overpower:
-
-    def contact():
-        discord = "over_on_top"
-        return discord
+    def __contact__(self):
+        self.anilist = "0verp0wer"
+        self.discord = "over_on_top"
+        self.telegram = "overpower104"
     
-    def life():
-        age = 16
-        birthday = "10 november"
-        country = "Italy"
-        hobbies = ["programming", "anime", "chess"]
-        return age, birthday, country, hobbies
+    def __life__(self):
+        self.age = 16
+        self.birthday = "10 november"
+        self.country = "Italy"
+        self.hobbies = ["programming", "anime", "chess"]
 
-    def coding():
-        environment = ["vs", "vscode"]
-        langs = {
+    def __coding__(self):
+        self.environment = ["vs", "vscode"]
+        self.langs = {
             "expert": ["python"],
-            "learning": ["c++", "c#"]
+            "learning": ["c", "c++", "java", "javascript"]
         }
-        return environment, langs
 ```
-<p align="center">
-  <img height="25" src="https://img.shields.io/github/followers/0verp0wer?color=ef4dd4&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
-  <img height="25" src="https://img.shields.io/github/stars/0verp0wer?color=ef4dd4&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-</p>
+<div align="center">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=0verp0wer&theme=default&show_icons=true&hide_border=false&count_private=true">
+    </div>
+    <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0verp0wer&theme=default&hide_border=true">
+    </div>
+</div>
+
+![Footer](./footer.png)
