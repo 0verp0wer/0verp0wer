@@ -14,7 +14,8 @@ class Overpower:
         self.age = 16
         self.birthday = "10 november"
         self.country = "Italy"
-        self.hobbies = ["programming", "anime", "chess"]
+        self.hobbies = ["anime", "chess", "coding"]
+        self.interests = ["obfuscation", "reverse engineering"]
 
     def __coding__(self):
         self.environment = ["vs", "vscode"]
