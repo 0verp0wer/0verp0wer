@@ -8,10 +8,11 @@ class Overpower:
     def __contact__(self):
         self.anilist = "0verp0wer"
         self.discord = "over_on_top"
+        self.leetcode = "0verp0wer"
         self.telegram = "overpower104"
     
     def __life__(self):
-        self.age = 16
+        self.age = 17
         self.birthday = "10 november"
         self.country = "Italy"
         self.hobbies = ["anime", "chess", "coding"]
