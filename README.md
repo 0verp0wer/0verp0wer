@@ -30,7 +30,7 @@ class Overpower:
         <img src="https://github-readme-stats.vercel.app/api?username=0verp0wer&theme=default&show_icons=true&hide_border=false&count_private=true">
     </div>
     <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0verp0wer&theme=default&hide_border=true">
+        <img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=0verp0wer&theme=default&hide_border=true">
     </div>
 </div>
 
